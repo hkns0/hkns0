@@ -19,10 +19,6 @@
 <br>
 🎮 Music • Finance • Code • Travel
 
-### 🛠️ Things I use
-![My Skills](https://skillicons.dev/icons?i=cpp,py,ts,nodejs,docker&theme=dark)
-<!-- full icon list: https://skillicons.dev — swap in whatever matches your real stack -->
-
 <div align="center">
 
 *待续 - to be continued...*
